@@ -1,0 +1,21 @@
+* {
+    margin: 15;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenidottextos p {
+    width: 65%;
+    text-align: justify;
+margin: 35px 30px 30px 35px;    
+}
+a {
+  color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+    margin-right: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(235, 84, 212);
+}
